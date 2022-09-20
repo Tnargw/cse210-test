@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Git appears to be working!");
+        Console.WriteLine("This is another test for GIT");
     }
 }
